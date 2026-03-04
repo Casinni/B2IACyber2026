@@ -1,5 +1,5 @@
-import 'package:testflutter/Adresse.dart';
-import 'package:testflutter/Personne.dart';
+import 'package:testflutter/exos/Adresse.dart';
+import 'package:testflutter/exos/Personne.dart';
 
 void main(){
 
